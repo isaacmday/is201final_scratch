@@ -1,0 +1,23 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+    background-color: blanchedalmond;
+}
+img{
+    display: block;
+    padding: 4px;
+    border: solid 2px black;
+}
+h1{
+    font-size: 300%;
+}
+ul:hover{
+    font-size: 150%;
+    background-color: whitesmoke;
+    color: navy;
+}
+a{
+    font-size: large;
+    color: green;
+}
